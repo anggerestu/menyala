@@ -1,2 +1,8 @@
 # menyala
 menyala
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xb5A420acA96C9695365111583cC38E010F8dFD08'
+quorum: 1
